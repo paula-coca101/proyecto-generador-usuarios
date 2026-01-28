@@ -9,3 +9,7 @@ El usuario introduce una palabra base y la aplicación combina dicha palabra con
 - HTML
 - CSS
 - JavaScript
+
+## Instalación y ejecución
+1. Clonar el repositorio
+2. Abrir el archivo src/index.html en el navegador
