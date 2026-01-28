@@ -1,6 +1,8 @@
 # proyecto-generador-usuarios
 Proyecto DPL - Generador usuarios
 
+## Generador Nombres de Usuario
+
 ## Descripción
 Este proyecto consiste en una aplicación web sencilla que permite generar nombres de usuario de forma automática.  
 El usuario introduce una palabra base y la aplicación combina dicha palabra con números aleatorios para crear un nombre de usuario único.
